@@ -241,11 +241,11 @@ Aplicación móvil **publicada en App Store y Play Store**. Ciclo completo de de
 │   "No me conformo con que funcione.                             │
 │    Si puede ser mejor, lo será."                                │
 │                                                                 │
-│   MOBILE   →  React Native · Expo · Android Studio             │
-│   BACKEND  →  Laravel · Node.js · NestJS · Spring Boot         │
-│   FRONTEND →  React · Vite · Tailwind · TypeScript             │
+│   MOBILE   →  React Native · Expo · Android Studio              │
+│   BACKEND  →  Laravel · Node.js · NestJS · Spring Boot          │
+│   FRONTEND →  React · Vite · Tailwind · TypeScript              │
 │   STORES   →  App Store ✓   Play Store ✓                       │
-│   MINDSET  →  Colaborativo · Resiliente · Mejora continua      │
+│   MINDSET  →  Colaborativo · Resiliente · Mejora continua       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
