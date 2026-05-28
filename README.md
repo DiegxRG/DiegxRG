@@ -91,36 +91,53 @@ const diego = {
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Stack-Capacidades%20Principales-0f172a?style=for-the-badge&logo=codeium&logoColor=22d3ee" alt="Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=999999&color=22D3EE&center=true&vCenter=true&width=560&lines=%3E+stack+--arquitectura+%7C+producto+%7C+ejecucion" alt="Stack title" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STACK-Capacidades%20principales-0f172a?style=for-the-badge&logo=codeium&logoColor=22d3ee" alt="Stack" />
 </div>
 
 <table>
 <tr>
-<td width="49%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Mobile Engineering
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=999999&color=93C5FD&center=true&vCenter=true&width=280&height=24&lines=build+%7C+ship+%7C+iterate" alt="Mobile motion" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Focus-React%20Native%20%2B%20Expo-111827?style=flat-square&logo=expo&logoColor=white" alt="Mobile focus" />
+<img src="https://img.shields.io/badge/Delivery-iOS%20%7C%20Android-111827?style=flat-square&logo=android&logoColor=34d399" alt="Mobile delivery" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react,expo,ts,androidstudio&perline=4" alt="Mobile stack" />
 
-Arquitectura, despliegue y mejora continua para apps moviles en produccion.
+<br/><br/>
+
+<sub>Arquitectura, despliegue y mejora continua para apps moviles en produccion.</sub>
 
 </td>
-<td width="2%"></td>
-<td width="49%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Frontend Systems
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=999999&color=93C5FD&center=true&vCenter=true&width=320&height=24&lines=interfaces+%7C+sistemas+%7C+detalle" alt="Frontend motion" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Focus-Interfaces%20claras%20y%20solidas-111827?style=flat-square&logo=react&logoColor=61dafb" alt="Frontend focus" />
+<img src="https://img.shields.io/badge/UX-Mantenible%20%7C%20Rapido-111827?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Frontend ux" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite,tailwind&perline=7" alt="Frontend stack" />
 
-Interfaces cuidadas, mantenibles y con criterio de producto.
+<br/><br/>
+
+<sub>Interfaces cuidadas, mantenibles y con criterio de producto.</sub>
 
 </td>
 </tr>
@@ -130,25 +147,36 @@ Interfaces cuidadas, mantenibles y con criterio de producto.
 
 <table>
 <tr>
-<td width="49%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Backend Architecture
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=999999&color=FCA5A5&center=true&vCenter=true&width=320&height=24&lines=apis+%7C+servicios+%7C+negocio" alt="Backend motion" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Focus-APIs%20%7C%20Servicios%20%7C%20Negocio-111827?style=flat-square&logo=nestjs&logoColor=e0234e" alt="Backend focus" />
+<img src="https://img.shields.io/badge/Scale-Robusto%20%7C%20Modular-111827?style=flat-square&logo=docker&logoColor=60a5fa" alt="Backend scale" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,java,spring,py,fastapi,flask&perline=5" alt="Backend stack" />
 
-Servicios robustos, reglas claras y una base lista para escalar.
+<br/><br/>
+
+<sub>Servicios robustos, reglas claras y una base lista para escalar.</sub>
 
 </td>
-<td width="2%"></td>
-<td width="49%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Data And Automation
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=999999&color=C4B5FD&center=true&vCenter=true&width=340&height=24&lines=webhooks+%7C+apis+%7C+automatizacion" alt="Automation motion" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Focus-Integraciones%20y%20automatizacion-111827?style=flat-square&logo=postgresql&logoColor=white" alt="Automation focus" />
+<img src="https://img.shields.io/badge/Flow-Datos%20%7C%20Procesos-111827?style=flat-square&logo=supabase&logoColor=34d399" alt="Automation flow" />
 
 <br/><br/>
 
@@ -157,6 +185,10 @@ Servicios robustos, reglas claras y una base lista para escalar.
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Make-Webhooks%20%7C%20APIs%20%7C%20Escenarios-7c3aed?style=for-the-badge" alt="Make automation" />
+
+<br/><br/>
+
+<sub>Integraciones limpias y procesos automatizados para reducir friccion operativa.</sub>
 
 </td>
 </tr>
