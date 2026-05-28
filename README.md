@@ -52,12 +52,22 @@
 %%%%%@@%%%%==#*#%%%@%%@@@@@@@@@@@@@@@%
 </pre>
 
-```bash
-Pais      : Peru
-Alias     : DiegxRG
-Enfoque   : Full Stack + Mobile
-Objetivo  : Producto, impacto y escalabilidad
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=999999&color=93C5FD&center=true&vCenter=true&width=290&height=24&lines=perfil+%7C+producto+%7C+ejecucion" alt="Profile motion" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%AA%20Pais-Peru-DC2626?style=for-the-badge&labelColor=0F172A" alt="Pais" />
+  <img src="https://img.shields.io/badge/Alias-DiegxRG-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Alias" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack%20%2B%20Mobile-0891B2?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A" alt="Enfoque" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Objetivo-Producto%20%7C%20Impacto%20%7C%20Escalabilidad-059669?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0F172A" alt="Objetivo" />
+</div>
 
 </td>
 <td width="4%"></td>
@@ -197,7 +207,11 @@ const diego = {
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Impacto-Proyectos%20Destacados-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Impacto" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=999999&color=22D3EE&center=true&vCenter=true&width=560&lines=%3E+impacto+--producto+real+%7C+mobile+%7C+automation" alt="Impact title" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/IMPACTO-Proyectos%20destacados-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Impacto" />
 </div>
 
 <table>
@@ -205,6 +219,12 @@ const diego = {
 <td width="49%" valign="top">
 
 ### XOC Platform
+
+<img src="https://img.shields.io/badge/Estado-En%20vivo-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="XOC live" />
+<img src="https://img.shields.io/badge/Foco-KPIs%20%7C%20Dashboards-1D4ED8?style=flat-square&logo=apachesuperset&logoColor=white" alt="XOC focus" />
+<img src="https://img.shields.io/badge/Valor-Operacion%20y%20analitica-0F172A?style=flat-square&logo=googleanalytics&logoColor=22d3ee" alt="XOC value" />
+
+<br/><br/>
 
 Plataforma orientada a operacion y analitica con foco en claridad, velocidad y valor para negocio.
 
@@ -219,6 +239,12 @@ Plataforma orientada a operacion y analitica con foco en claridad, velocidad y v
 <td width="49%" valign="top">
 
 ### XOC Mobile App
+
+<img src="https://img.shields.io/badge/Estado-Produccion-2563EB?style=flat-square&logo=app-store&logoColor=white" alt="XOC app production" />
+<img src="https://img.shields.io/badge/Plataformas-iOS%20%7C%20Android-0F172A?style=flat-square&logo=android&logoColor=34d399" alt="XOC app platforms" />
+<img src="https://img.shields.io/badge/Foco-UX%20%7C%20Performance-0891B2?style=flat-square&logo=react&logoColor=white" alt="XOC app focus" />
+
+<br/><br/>
 
 Aplicacion movil publicada y mantenida con foco en experiencia, rendimiento y estabilidad.
 
@@ -241,6 +267,12 @@ Aplicacion movil publicada y mantenida con foco en experiencia, rendimiento y es
 
 ### Automation Workflows
 
+<img src="https://img.shields.io/badge/Engine-Make-7C3AED?style=flat-square&logo=make&logoColor=white" alt="Automation make" />
+<img src="https://img.shields.io/badge/Flujo-Webhooks%20%7C%20API%20to%20API-0F172A?style=flat-square&logo=n8n&logoColor=22d3ee" alt="Automation flow" />
+<img src="https://img.shields.io/badge/Resultado-Menos%20trabajo%20manual-059669?style=flat-square&logo=googletagmanager&logoColor=white" alt="Automation result" />
+
+<br/><br/>
+
 Automatizaciones para procesos internos, integraciones entre servicios y reduccion de trabajo manual.
 
 - Disparadores por webhooks.
@@ -252,6 +284,12 @@ Automatizaciones para procesos internos, integraciones entre servicios y reducci
 <td width="49%" valign="top">
 
 ### Computer Vision Project
+
+<img src="https://img.shields.io/badge/Area-Computer%20Vision-0F172A?style=flat-square&logo=opencv&logoColor=white" alt="CV area" />
+<img src="https://img.shields.io/badge/Modo-Real%20time-DC2626?style=flat-square&logo=python&logoColor=white" alt="CV mode" />
+<img src="https://img.shields.io/badge/Foco-Modelos%20%7C%20Validacion-1D4ED8?style=flat-square&logo=tensorflow&logoColor=white" alt="CV focus" />
+
+<br/><br/>
 
 Sistema de reconocimiento de senas en tiempo real validado con enfoque practico.
 
